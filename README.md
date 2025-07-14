@@ -64,7 +64,7 @@ Componentes independientes utilizando standalone: true.
 
 A continuación se muestran ejemplos del funcionamiento:
 
-![opreaciones1](capturas/captura1.png)
+![menu](capturas/menu.png)
 ![operaciones2](capturas/captura2.png)
 
 Resultado con Dato Inválido.
