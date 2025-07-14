@@ -66,18 +66,20 @@ Componentes independientes utilizando standalone: true.
 
 A continuación se muestran ejemplos del funcionamiento:
 
-![menu](capturas_de_pantalla/menu.png)
-
 
 ![inicio](capturas_de_pantalla/inicio.png)
 
-![operaciones](capturas_de_pantalla/Operacion2.png)
+![menu](capturas_de_pantalla/menu.png)
 
-![operaciones](capturas_de_pantalla/Operacion3.png)
+![Opcion1](capturas_de_pantalla/Opcion1.png)
 
-![operaciones](capturas_de_pantalla/Operacion4.png)
+![operaciones3](capturas_de_pantalla/Opcion2.png)
 
-![operaciones](capturas_de_pantalla/Operacion5.png)
+![operaciones4](capturas_de_pantalla/Opcion3.png)
+
+![operaciones5](capturas_de_pantalla/Opcion4.png)
+
+![inicio](capturas_de_pantalla/Opcion5.png)
 
 ## Demostración en Línea - GitHub Pages
 
