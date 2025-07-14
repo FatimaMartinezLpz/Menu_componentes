@@ -24,6 +24,8 @@ Martinez Lopez Fatima – Proyecto con Angular y Angular Material.
 
 El proyecto está organizado por carpetas, cada una conteniendo un componente individual, por ejemplo:
 
+![estructura](capturas_de_pantalla/formato.png)
+
 
 Cada subcarpeta contiene un componente `standalone` de Angular con su archivo `.ts`, `.html` y `.css`.
 
@@ -64,17 +66,18 @@ Componentes independientes utilizando standalone: true.
 
 A continuación se muestran ejemplos del funcionamiento:
 
-![menu](capturas/menu.png)
-![operaciones2](capturas/captura2.png)
+![menu](capturas_de_pantalla/menu.png)
 
-Resultado con Dato Inválido.
 
-![Resultado con Dato Inválido](capturas/captura3.png)
+![inicio](capturas_de_pantalla/inicio.png)
 
-## Video
+![operaciones](capturas_de_pantalla/Operacion2.png)
 
-[🔗 Click aquí para ver el video de demostración en YouTube](https://youtu.be/b4sPsHCbRjg)
+![operaciones](capturas_de_pantalla/Operacion3.png)
 
+![operaciones](capturas_de_pantalla/Operacion4.png)
+
+![operaciones](capturas_de_pantalla/Operacion5.png)
 
 ## Demostración en Línea - GitHub Pages
 
