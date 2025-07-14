@@ -1,0 +1,11 @@
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 20px;
+}

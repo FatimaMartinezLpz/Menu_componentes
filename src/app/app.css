@@ -1,0 +1,15 @@
+select {
+  background-color: #fdafd1; /* verde */
+  color: rgb(250, 218, 240);
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ffc3db;
+  font-size: 16px;
+  outline: none;
+}
+
+/* También puedes agregar estilos para el hover */
+select:hover {
+  background-color: #feb8c0;
+  cursor: pointer;
+}
